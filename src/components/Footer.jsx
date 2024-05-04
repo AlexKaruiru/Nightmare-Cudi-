@@ -97,7 +97,7 @@ export default function Footer() {
               <Logo color={useColorModeValue('gray.700', 'white')} />
             </Box>
             <Text fontSize={'sm'}>
-              All rights reserved © 2022.
+              All rights reserved © {new Date().getFullYear()} Alex.
             </Text>
             <Stack direction={'row'} spacing={6}>
               <SocialButton label={'Twitter'} href={'#'}>
