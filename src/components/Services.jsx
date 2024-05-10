@@ -60,8 +60,9 @@ import {
             Short heading
           </Heading>
           <Text color={'gray.600'} fontSize={{ base: 'sm', sm: 'lg' }}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis
-            obcaecati ut cupiditate pariatur, dignissimos, placeat amet officiis.
+            I love you lil' niggas, I'm glad that you came
+            I hope that you scrape every dollar you can
+            I hope you know money won't erase the pain
           </Text>
         </Stack>
   

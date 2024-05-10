@@ -96,8 +96,10 @@ export default function Testimonials() {
             <TestimonialContent>
               <TestimonialHeading>Efficient Collaborating</TestimonialHeading>
               <TestimonialText>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor
-                neque sed imperdiet nibh lectus feugiat nunc sem.
+                I'm countin' my bullets, I'm loadin' my clips
+                I'm writin' down names, I'm makin' a list
+                I'm checkin' it twice and I'm gettin' 'em hit
+                The game is off balance, I'm back on my shit
               </TestimonialText>
             </TestimonialContent>
             <TestimonialAvatar
@@ -110,8 +112,10 @@ export default function Testimonials() {
             <TestimonialContent>
               <TestimonialHeading>Intuitive Design</TestimonialHeading>
               <TestimonialText>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor
-                neque sed imperdiet nibh lectus feugiat nunc sem.
+                I'm countin' my bullets, I'm loadin' my clips
+                I'm writin' down names, I'm makin' a list
+                I'm checkin' it twice and I'm gettin' 'em hit
+                The game is off balance, I'm back on my shit
               </TestimonialText>
             </TestimonialContent>
             <TestimonialAvatar
@@ -126,8 +130,10 @@ export default function Testimonials() {
             <TestimonialContent>
               <TestimonialHeading>Mindblowing Service</TestimonialHeading>
               <TestimonialText>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor
-                neque sed imperdiet nibh lectus feugiat nunc sem.
+                I'm countin' my bullets, I'm loadin' my clips
+                I'm writin' down names, I'm makin' a list
+                I'm checkin' it twice and I'm gettin' 'em hit
+                The game is off balance, I'm back on my shit
               </TestimonialText>
             </TestimonialContent>
             <TestimonialAvatar
